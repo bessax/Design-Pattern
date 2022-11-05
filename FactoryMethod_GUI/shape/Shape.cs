@@ -8,7 +8,7 @@
 
         public void defineColor(int r, int g, int b)
         {
-            this.color = Color.FromArgb(r, g, b);
+           this.color = Color.FromArgb(r, g, b);
         }
 
         public Color getColor()
